@@ -13,6 +13,7 @@ function Search() {
   return (
     <>
       <div className="searchbar">
+          Type something:<br></br>
         <input
           type="text"
           placeholder="Search Anything"
